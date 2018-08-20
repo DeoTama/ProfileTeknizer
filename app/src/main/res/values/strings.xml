@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Back Edit Profile</string>
+    <string-array name="bank">
+        <item>"Pilih Bank"</item>
+        <item>Mandiri</item>
+        <item>BNI</item>
+        <item>BRI</item>
+        <item>BTN</item>
+        <item>Danamon</item>
+    </string-array>
+</resources>
